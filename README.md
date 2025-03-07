@@ -1,0 +1,1 @@
+<b1>its a demo front page of amazon website . i created this just for learning purpose . i used HTML and CSS language .we can add Javascript to make it proper working web page .</b>
